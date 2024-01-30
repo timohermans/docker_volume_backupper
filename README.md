@@ -1,5 +1,10 @@
 Created this script to backup important docker volumes and send them to google drive.
 
+## Requirements
+
+- [Rclone](https://rclone.org/install/#linux-precompiled)
+- [Vackup](https://github.com/BretFisher/docker-vackup/tree/main)
+
 ## Installing
 
 First open up crontab
